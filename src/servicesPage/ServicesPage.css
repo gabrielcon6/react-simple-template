@@ -1,0 +1,23 @@
+.about{
+    padding-top: 10vh;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.about-image{
+    background-color: skyblue;
+    border-radius: 50%;
+    height: 20rem;
+    width: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-text{
+    text-align: justify;
+    width: 50%;
+}

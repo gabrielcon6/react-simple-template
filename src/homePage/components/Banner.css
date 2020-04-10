@@ -1,0 +1,12 @@
+.banner {
+  height: 55vh;
+  width: 100%;
+  background-color: lightslategrey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner-content {
+  font-size: 10em;
+}
